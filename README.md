@@ -1,4 +1,4 @@
-[![Hello 👋🏻](https://i.ibb.co/t2NtDP7/Anis-Hamdi-Cover.png)]
+![Hello 👋🏻](https://i.ibb.co/t2NtDP7/Anis-Hamdi-Cover.png)
 
 Hey 👋🏻,
 
