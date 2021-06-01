@@ -2,7 +2,7 @@
 
 Hey 👋🏻,
 
-I'm Anis Hamdi a 24 years old cyber security consultant @EY & a security enthusiast from Tunisia .  I am graduated as Computer Science & Networks Engineer at National Institute of Applied Sciences and Technology (INSAT). I spend time digging stuffs  like  Bugs exploitation ,Reverse engineering and  understanding how operating systems  works.  
+I'm Anis Hamdi a 25 years old security analyst @Riscure and former cyber security consultant @EY from Tunisia.  I am graduated as Computer Science & Networks Engineer at National Institute of Applied Sciences and Technology (INSAT). I spend time digging stuffs  like  Bugs exploitation ,Reverse engineering and  understanding how operating systems  works.  
 My security blog pwn-diaries.com is a good way for me to make sure I understand a topic, because if I can't explain something to someone, then I don't understand it.
 I like playing hacking competitions (Capture The Flag contests) i'm part of the tunisian team "the3000". Apart from staying in front of the computer , i like playing football.  
 
